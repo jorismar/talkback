@@ -84,7 +84,7 @@
         <!-- TalkBack -->
         <service
             android:icon="@drawable/icon"
-            android:name="com.google.android.marvin.talkback.TalkBackService"
+            android:name="com.google.android.marvin.talkbackNoKeyFilter.TalkBackService"
             android:exported="true"
             android:label="@string/talkback_title"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"

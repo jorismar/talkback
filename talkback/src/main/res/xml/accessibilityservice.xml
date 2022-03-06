@@ -3,7 +3,7 @@
     android:accessibilityEventTypes="typeAllMask"
     android:accessibilityFeedbackType="feedbackSpoken|feedbackHaptic|feedbackAudible"
     android:accessibilityFlags="flagDefault|flagRequestTouchExplorationMode|flagReportViewIds|flagRequestFilterKeyEvents|flagEnableAccessibilityVolume|flagRetrieveInteractiveWindows|flagRequestShortcutWarningDialogSpokenFeedback"
-    android:canRequestFilterKeyEvents="true"
+    android:canRequestFilterKeyEvents="false"
     android:canRequestTouchExplorationMode="true"
     android:canControlMagnification="true"
     android:canRetrieveWindowContent="true"
